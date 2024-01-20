@@ -1,6 +1,6 @@
 ## README
 
-This Jupyter notebook was created from a BootCamp class hosted by the Ahrens in HHMI Janelia (tutors Takashi Kawashima and Mika Rubinov). The goal of this class is to learn the basics of data analysis for large-scale calcium imaging experiments. In our experiment, calcium activities of ~100,000 neurons were simuntaneously recorded from brains of larval zebrafish, behaving in a virtual reality environment [ref 1-3].
+This Jupyter notebook was created from a BootCamp class hosted by the Ahrens Lab in HHMI Janelia (tutors Takashi Kawashima and Mika Rubinov). The goal of this class is to learn the basics of data analysis for large-scale calcium imaging experiments. In our experiment, calcium activities of ~100,000 neurons were simuntaneously recorded from brains of larval zebrafish, behaving in a virtual reality environment [ref 1-3].
 
 <img src="./pics/maxresdefault.jpg" width="384">
 
